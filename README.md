@@ -5,15 +5,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmantariq564" alt="salmantariq564" /></a> </p>
 
-- 🔭 I’m currently working on [Moju Chat](https://mojuchat.com/)
+- 🔭 I’m currently working on 
+🚀 Building robust mobile applications using React Native, Swift, and Kotlin
+💻 Developing full-stack applications with Node.js, Express.js, and Next.js
+⚙️ Exploring Web3 & AI integrations in mobile apps
 
-- 🌱 I’m currently learning **Node JS, Express JS**
 
-- 👯 I’m looking to collaborate on [ParkbyPlate](https://frontend.parkbyplate.com/)
+- 🌱 I’m currently learning 
+Advanced microservices architecture
+Scalable cloud infrastructure with AWS
+Performance optimization techniques for mobile & web apps
 
-- 🤝 I’m looking for help with [Myrtle app](https://www.myrtleapp.com/)
+- 👯 I’m looking to collaborate on 
+🚀 Mobile & web app development projects
+🔗 Blockchain/Web3 integrations
+⚡ High-performance SaaS applications
 
-- 💬 Ask me about **React Native , Swift, Kotlin ,**
+
+- 💬 Ask me about **eact Native, Swift, Kotlin, Node.js, Express.js, Next.js, TypeScript, TailwindCSS**
 
 - 📫 How to reach me **Tariqsalman627@gmail.com**
 
