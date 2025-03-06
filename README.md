@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmantariq564" alt="salmantariq564" /></a> </p>
 
-- 🔭 I’m currently working on 
-🚀 Building robust mobile applications using React Native, Swift, and Kotlin
-💻 Developing full-stack applications with Node.js, Express.js, and Next.js
-⚙️ Exploring Web3 & AI integrations in mobile apps
+- 🔭 I’m currently working on <br>
+🚀 Building robust mobile applications using React Native, Swift, and Kotlin <br>
+💻 Developing full-stack applications with Node.js, Express.js, and Next.js <br>
+⚙️ Exploring Web3 & AI integrations in mobile apps <br>
 
 
-- 🌱 I’m currently learning 
-Advanced microservices architecture
-Scalable cloud infrastructure with AWS
-Performance optimization techniques for mobile & web apps
+- 🌱 I’m currently learning <br>
+Advanced microservices architecture <br>
+Scalable cloud infrastructure with AWS <br>
+Performance optimization techniques for mobile & web apps <br>
 
-- 👯 I’m looking to collaborate on 
-🚀 Mobile & web app development projects
-🔗 Blockchain/Web3 integrations
-⚡ High-performance SaaS applications
+- 👯 I’m looking to collaborate on <br>
+🚀 Mobile & web app development projects <br>
+🔗 Blockchain/Web3 integrations <br>
+⚡ High-performance SaaS applications <br>
 
 
 - 💬 Ask me about **eact Native, Swift, Kotlin, Node.js, Express.js, Next.js, TypeScript, TailwindCSS**
